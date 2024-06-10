@@ -12,5 +12,5 @@
 
 # Time
 
-| [<img src="conrado.JPG" width=130><br><sub>Conrado Nobre</sub>](https://github.com/Conrado1001) |
+| [<img src="https://github.com/Conrado1001/jogo-do-numero-secreto/assets/157172420/baa72817-13d0-4ecc-b977-6a4c92237087" width=150><br><sub>Conrado Nobre</sub>](https://github.com/Conrado1001) |
 | :---: 

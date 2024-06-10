@@ -12,5 +12,5 @@
 
 # Time
 
-| [<img src="conrado.JPG"><br><sub>Conrado Nobre</sub>](https://github.com/Conrado1001) |
+| [<img src="conrado.JPG" width=130><br><sub>Conrado Nobre</sub>](https://github.com/Conrado1001) |
 | :---: 
